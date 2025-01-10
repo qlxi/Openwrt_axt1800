@@ -17,3 +17,4 @@
 echo "src-git fancontrol https://github.com/JiaY-shi/fancontrol.git" >>feeds.conf.default
 echo "src-git adguardhome https://github.com/rufengsuixing/luci-app-adguardhome.git" >>feeds.conf.default
 echo "src-git turboacc https://github.com/chenmozhijin/turboacc.git" >>feeds.conf.default
+echo "src-git amneziawg https://github.com/amnezia-vpn/amneziawg-openwrt.git" >>feeds.conf.default
