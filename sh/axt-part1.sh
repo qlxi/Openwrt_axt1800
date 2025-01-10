@@ -17,4 +17,3 @@
 echo "src-git fancontrol https://github.com/JiaY-shi/fancontrol.git" >>feeds.conf.default
 echo "src-git AdGuardHome https://github.com/xiaoxiao29/luci-app-adguardhome.git" >>feeds.conf.default
 echo "src-git awgopenwrt https://github.com/dimfishr/amneziawg-openwrt.git" >>feeds.conf.default
-echo "src-git kwrt_packages https://github.com/kiddin9/kwrt-packages.git" >>feeds.conf.default
