@@ -16,3 +16,4 @@
 # echo 'src-git mosdns https://github.com/sbwml/luci-app-mosdns' >>feeds.conf.default
 echo "src-git fancontrol https://github.com/JiaY-shi/fancontrol.git" >>feeds.conf.default
 echo "src-git AdGuardHome https://github.com/xiaoxiao29/luci-app-adguardhome.git" >>feeds.conf.default
+echo "src-git amneziawg https://github.com/bubakanov/amneziawg-openwrt-master.git" >>feeds.conf.default
