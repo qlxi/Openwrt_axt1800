@@ -15,4 +15,3 @@
 # touch feeds.conf.default
 # echo 'src-git mosdns https://github.com/sbwml/luci-app-mosdns' >>feeds.conf.default
 echo "src-git fancontrol https://github.com/JiaY-shi/fancontrol.git" >>feeds.conf.default
-echo "src-git packages https://github.com/kiddin9/kwrt-packages.git" >>feeds.conf.default
