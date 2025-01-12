@@ -15,3 +15,4 @@
 # touch feeds.conf.default
 # echo 'src-git mosdns https://github.com/sbwml/luci-app-mosdns' >>feeds.conf.default
 echo "src-git fancontrol https://github.com/JiaY-shi/fancontrol.git" >>feeds.conf.default
+sed -i '$a src-git NueXini_Packages https://github.com/NueXini/NueXini_Packages.git' feeds.conf.default
