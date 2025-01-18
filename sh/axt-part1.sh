@@ -15,3 +15,4 @@
 # touch feeds.conf.default
 # echo 'src-git mosdns https://github.com/sbwml/luci-app-mosdns' >>feeds.conf.default
 echo "src-git fancontrol https://github.com/JiaY-shi/fancontrol.git" >>feeds.conf.default
+curl -sSL https://raw.githubusercontent.com/chenmozhijin/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh
