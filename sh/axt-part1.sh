@@ -14,4 +14,5 @@
 # rm -rf feeds.conf.default
 # touch feeds.conf.default
 # echo 'src-git mosdns https://github.com/sbwml/luci-app-mosdns' >>feeds.conf.default
-echo -e '\nsrc-git fancontrol https://github.com/JiaY-shi/fancontrol.git' >>feeds.conf.default
+echo -e '\nsrc-git fancontrol https://github.com/fanteral/luci-app-fancontrol.git' >>feeds.conf.default
+echo 'src-git turboacc https://github.com/chenmozhijin/turboacc.git' >>feeds.conf.default
